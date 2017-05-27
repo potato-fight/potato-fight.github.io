@@ -1,0 +1,1 @@
+$('body').css('max-width', screen.width);
